@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fire Base</string>
+
+    <string name="facebook_app_id">703061787726802</string>
+    <string name="fb_login_protocol_scheme">fb703061787726802</string>
+    <string name="facebook_client_token">645612576676960</string>
+
+</resources>
